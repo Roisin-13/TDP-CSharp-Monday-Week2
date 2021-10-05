@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\TDP-CSharp-Monday-Week2\ListsandGenerics\ListsandGenerics\bin\Debug\net5.0\ListsandGenerics.exe
+C:\Users\Admin\Desktop\TDP-CSharp-Monday-Week2\ListsandGenerics\ListsandGenerics\bin\Debug\net5.0\ListsandGenerics.deps.json
+C:\Users\Admin\Desktop\TDP-CSharp-Monday-Week2\ListsandGenerics\ListsandGenerics\bin\Debug\net5.0\ListsandGenerics.runtimeconfig.json
+C:\Users\Admin\Desktop\TDP-CSharp-Monday-Week2\ListsandGenerics\ListsandGenerics\bin\Debug\net5.0\ListsandGenerics.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\TDP-CSharp-Monday-Week2\ListsandGenerics\ListsandGenerics\bin\Debug\net5.0\ListsandGenerics.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Monday-Week2\ListsandGenerics\ListsandGenerics\bin\Debug\net5.0\ref\ListsandGenerics.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Monday-Week2\ListsandGenerics\ListsandGenerics\bin\Debug\net5.0\ListsandGenerics.pdb
+C:\Users\Admin\Desktop\TDP-CSharp-Monday-Week2\ListsandGenerics\ListsandGenerics\obj\Debug\net5.0\ListsandGenerics.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Monday-Week2\ListsandGenerics\ListsandGenerics\obj\Debug\net5.0\ListsandGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TDP-CSharp-Monday-Week2\ListsandGenerics\ListsandGenerics\obj\Debug\net5.0\ListsandGenerics.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Monday-Week2\ListsandGenerics\ListsandGenerics\obj\Debug\net5.0\ListsandGenerics.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TDP-CSharp-Monday-Week2\ListsandGenerics\ListsandGenerics\obj\Debug\net5.0\ListsandGenerics.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TDP-CSharp-Monday-Week2\ListsandGenerics\ListsandGenerics\obj\Debug\net5.0\ListsandGenerics.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Monday-Week2\ListsandGenerics\ListsandGenerics\obj\Debug\net5.0\ref\ListsandGenerics.dll
+C:\Users\Admin\Desktop\TDP-CSharp-Monday-Week2\ListsandGenerics\ListsandGenerics\obj\Debug\net5.0\ListsandGenerics.pdb
+C:\Users\Admin\Desktop\TDP-CSharp-Monday-Week2\ListsandGenerics\ListsandGenerics\obj\Debug\net5.0\ListsandGenerics.genruntimeconfig.cache
